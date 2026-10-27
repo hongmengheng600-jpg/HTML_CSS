@@ -1,0 +1,36 @@
+/* body{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin: 20px;
+}
+.container div{
+ background-color: aqua;
+ color: blueviolet;
+ padding: 20px;
+ font-weight: bold;
+ text-align: center;
+}
+.navbar{
+    background-color: aquamarine;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+.dropdown{
+    position: relative;
+    position: inline-block;
+}
+.dropdown-container{
+    display: none;
+    position: absolute;
+    z-index: 1;
+}
+.dropdown:hover .dropdown-container{
+    position: absolute;
+    display: block;
+} */
